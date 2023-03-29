@@ -1,5 +1,5 @@
 ---
-title: "Lab 07: mediatio"
+title: "Lab 07: mediation"
 subtitle: "Lab 7"
 output: 
   tufte::tufte_html:
@@ -31,7 +31,7 @@ Your task is to reproduce the study by Cho et al. (2023) by following the steps 
 
 - Utilize R to apply Baron & Kenny's causal steps approach.
 
-- Use the Lavaan package in R for the bootstrapping approach.
+- Use the Lavaan package in R to run the mediation model and calculate the bootstrapped indirect effect. 
 
 - Create a path model diagram using your preferred software.
 
